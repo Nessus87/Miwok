@@ -1,0 +1,25 @@
+#Sat Apr 15 17:56:56 CEST 2017
+renamed.7=classes3.dex
+renamed.6=classes8.dex
+renamed.5=classes5.dex
+renamed.4=classes7.dex
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.7=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_578db5aa61eb75aaa8503e80e410421b7dae49b2
+base.6=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69271b644b63a7bcca91813442d1b77dd38a7c2
+base.5=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d6df1ce809428d07ea6c3c06caa727c291652712
+base.4=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d74556ee1cc11d12f7256315bfb5f6d356a22b3
+base.3=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_786d35e6d4630df09169db3c5a6e2ac77eaeef06
+base.2=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_687c84361e03a2c5be70a6cb1b430b353b074cd7
+base.1=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a51fde1799098cde9ff208a1c7ed2cbacc423ef3
+base.0=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4fa6b6d91e28cb8e18fdc56c777cffaa7bccb2
+file.7=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_578db5aa61eb75aaa8503e80e410421b7dae49b2/classes.dex
+file.6=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69271b644b63a7bcca91813442d1b77dd38a7c2/classes.dex
+file.5=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d6df1ce809428d07ea6c3c06caa727c291652712/classes.dex
+file.4=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d74556ee1cc11d12f7256315bfb5f6d356a22b3/classes.dex
+file.3=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_786d35e6d4630df09169db3c5a6e2ac77eaeef06/classes.dex
+file.2=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_687c84361e03a2c5be70a6cb1b430b353b074cd7/classes.dex
+file.1=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a51fde1799098cde9ff208a1c7ed2cbacc423ef3/classes.dex
+file.0=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef4fa6b6d91e28cb8e18fdc56c777cffaa7bccb2/classes.dex

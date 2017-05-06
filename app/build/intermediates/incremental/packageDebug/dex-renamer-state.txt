@@ -1,0 +1,7 @@
+#Sat May 06 18:21:09 CEST 2017
+base.0=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e816f02e576404623f4aeab37fa8a3f96a19517
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5d99b154148741a904264e372e0174f26bf281/classes.dex
+base.1=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5d99b154148741a904264e372e0174f26bf281
+file.0=/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e816f02e576404623f4aeab37fa8a3f96a19517/classes.dex

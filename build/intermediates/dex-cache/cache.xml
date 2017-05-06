@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2330310043004e05a008b9299d10c274ab298016">
+        <dex dex="/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e816f02e576404623f4aeab37fa8a3f96a19517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c5d99b154148741a904264e372e0174f26bf281/classes.dex" />
+    </item>
+
+</items>
