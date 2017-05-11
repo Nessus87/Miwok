@@ -24,12 +24,12 @@
         "source": "/home/leandro/.android/build-cache/9b7d73ebd276f99bc3e248982d5e7e38fb53fc8b/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/word_list.xml",
         "source": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/src/main/res/layout/word_list.xml"
+    },
+    {
+        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
@@ -40,12 +40,12 @@
         "source": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
@@ -64,12 +64,12 @@
         "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/leandro/.android/build-cache/e73b622054ebc67fa32ffcb508b33984446dc2dc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/leandro/Documents/version-control/Android Classes/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",

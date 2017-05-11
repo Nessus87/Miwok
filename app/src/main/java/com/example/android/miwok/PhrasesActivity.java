@@ -16,6 +16,7 @@
 package com.example.android.miwok;
 
 import android.content.Context;
+import android.content.Intent;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
@@ -26,8 +27,7 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-import static android.media.AudioManager.AUDIOFOCUS_LOSS_TRANSIENT;
-import static android.media.AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK;
+import static com.example.android.miwok.OnSwipeTouchListener.swipeStatus;
 
 public class PhrasesActivity extends AppCompatActivity {
 
@@ -60,6 +60,14 @@ public class PhrasesActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) throws NullPointerException{
         super.onCreate(savedInstanceState);
+
+        /*
+        REMOVES THE SHADOW FROM THE ACTIONBAR (Android 5.0+)
+        for older Android versions use: <item name="android:windowContentOverlay">@null</item>
+        in the App style
+         */
+        getSupportActionBar().setElevation(0);
+
         setContentView(R.layout.word_list);
 
         try {
@@ -111,6 +119,26 @@ public class PhrasesActivity extends AppCompatActivity {
                 }
             }
         });
+
+        if (swipeStatus == 'l') {
+            this.overridePendingTransition(R.anim.enter_from_right, R.anim.exit_out_left);
+        } else if (swipeStatus == 'r') {
+            this.overridePendingTransition(R.anim.enter_from_left, R.anim.exit_out_right);
+        }
+
+        listView.setOnTouchListener(new OnSwipeTouchListener(PhrasesActivity.this){
+            @Override
+            public void onSwipeLeft(){
+                swipeStatus = 'l';
+                Intent intent = new Intent(PhrasesActivity.this, NumbersActivity.class);
+                startActivity(intent);
+            }
+            @Override
+            public void onSwipeRight(){
+                swipeStatus = 'r';
+                Intent intent = new Intent(PhrasesActivity.this, ColorsActivity.class);
+                startActivity(intent);
+            }});
     }
 
     @Override

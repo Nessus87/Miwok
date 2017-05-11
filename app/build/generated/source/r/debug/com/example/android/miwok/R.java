@@ -25,6 +25,12 @@ public final class R {
         public static final int design_fab_out=0x7f05000d;
         public static final int design_snackbar_in=0x7f05000e;
         public static final int design_snackbar_out=0x7f05000f;
+        public static final int enter_from_left=0x7f050010;
+        public static final int enter_from_right=0x7f050011;
+        public static final int exit_out_left=0x7f050012;
+        public static final int exit_out_right=0x7f050013;
+        public static final int left_to_right=0x7f050014;
+        public static final int right_to_left=0x7f050015;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -2335,6 +2341,7 @@ containing a value of this type.
         public static final int clip_vertical=0x7f0d002d;
         public static final int collapseActionView=0x7f0d0034;
         public static final int colors=0x7f0d006b;
+        public static final int colors_topBar=0x7f0d0089;
         public static final int contentPanel=0x7f0d004a;
         public static final int custom=0x7f0d0050;
         public static final int customPanel=0x7f0d004f;
@@ -2356,6 +2363,7 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f0d003e;
         public static final int expanded_menu=0x7f0d0051;
         public static final int family=0x7f0d006a;
+        public static final int family_topBar=0x7f0d0088;
         public static final int fill=0x7f0d002e;
         public static final int fill_horizontal=0x7f0d002f;
         public static final int fill_vertical=0x7f0d0022;
@@ -2370,7 +2378,7 @@ containing a value of this type.
         public static final int left=0x7f0d0023;
         public static final int line1=0x7f0d007f;
         public static final int line3=0x7f0d0083;
-        public static final int list=0x7f0d0087;
+        public static final int list=0x7f0d008b;
         public static final int listMode=0x7f0d000b;
         public static final int list_item=0x7f0d0041;
         public static final int media_actions=0x7f0d007d;
@@ -2383,9 +2391,11 @@ containing a value of this type.
         public static final int none=0x7f0d0010;
         public static final int normal=0x7f0d000c;
         public static final int numbers=0x7f0d0069;
+        public static final int numbers_topBar=0x7f0d0087;
         public static final int parallax=0x7f0d001b;
         public static final int parentPanel=0x7f0d0046;
         public static final int phrases=0x7f0d006c;
+        public static final int phrases_topBar=0x7f0d008a;
         public static final int pin=0x7f0d001c;
         public static final int play_sound=0x7f0d0079;
         public static final int progress_circular=0x7f0d0006;
@@ -2923,6 +2933,7 @@ containing a value of this type.
         public static final int Widget_Design_Snackbar=0x7f0a0157;
         public static final int Widget_Design_TabLayout=0x7f0a0001;
         public static final int Widget_Design_TextInputLayout=0x7f0a0158;
+        public static final int activityTopBar=0x7f0a0159;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
